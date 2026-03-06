@@ -2,7 +2,7 @@
 
 When creating the Wings of Help project, I worked closely with the team. At the initial stage, I described the project idea, defined the strategic approach and planning stages, and prepared the Software Requirements Specification.
 
-The main KPIs and metrics were developed (3), and together with the designer Sofia Kolomoyets, key user flows and events for analytics were agreed upon (4). Additionally, analytical hypotheses were formulated (5) and statistical methods for their verification were described (6).
+The main KPIs and metrics were developed, and together with the designer Sofia Kolomoyets, key user flows and events for analytics were agreed upon. Additionally, analytical hypotheses were formulated and statistical methods for their verification were described.
 
 The next stage was the development of a dataset for the project in Python (7), taking into account the defined KPIs, metrics, and database structure, which was prepared by the front-end developer Anton Blyznyuk. The generated dataset consists of four tables: help_categories.csv (8), users.csv (9), help.csv (10), and events.csv (11).
 
@@ -16,7 +16,8 @@ As part of the analytical part of the project, the structure of two dashboards (
  - [Identifying key user flows and events](#identifying-key-user-flows-and-events)
  - [Developing basic KPIs and metrics](#developing-basic-kpis-and-metrics)
  - [Creating hypotheses for A/B tests](#creating-hypotheses-for-ab-tests)
- - [Statistical Methods for Product Analytics]()
+ - [Statistical Methods for Product Analytics](#statistical-methods-for-product-analytics)
+ - 
 
 
 ## Strategic approach and project planning
