@@ -55,9 +55,10 @@ The web service is implemented as an MVP (Minimum Viable Product) - a minimum vi
  - Railway
 
 **Analytics**
- - Python - for creating a dataset and processing data, statistical analysis.
- - Microsoft Excel - for preliminary analysis, data structuring.
- - Tableau Public and Power BI - for data visualization and creating interactive dashboards.
+ - Python (Pandas, NumPy, Matplotlib/Seaborn)
+ - Microsoft Excel 
+ - Tableau Public
+ - Power BI 
  
 ## Features
  - User authentication (JWT)
