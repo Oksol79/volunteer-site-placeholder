@@ -9,26 +9,29 @@ The system allows users to create, publish, and view requests for assistance, as
 - [Projects](#projects)
   - [Live Demo](#live-demo)
   - [Technologies](#technologies)
-  - [SQL query 3: Daily Revenue & Advertising Cost](#sql-query-3-daily-revenue--advertising-cost)
-
-## MVP Projects
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Our team](#our-team)
+ 
+## **Projects**
 The web service is implemented as an MVP (Minimum Viable Product) - a minimum viable product with a basic set of functions necessary to launch the platform and ensure its basic operation. This approach enables the rapid deployment of the system and provides the possibility of further scaling, expanding functionality, and integrating with other services.
 
-### Live Demo
-🌐 Frontend:
+## **Live Demo**
+🌐 Frontend:  
 [Live Demo](https://volunteer-site-placeholder-dev.up.railway.app/#/)
 
-⚙️ Backend API:
+⚙️ Backend API:  
 [Swagger API](https://alert-ambition-dev.up.railway.app/api/v1/swagger/)
 
-🎨 Design:
+🎨 Design:  
 [Figma](https://www.figma.com/design/nNG4BMbvvDTKRPgQAXmTlH/Wings-of-Help?node-id=9-2&p=f&t=ZReVm91WXFF2kWMj-0)
 
-📊 Analytics:
-[Tableau Dashboard](https://public.tableau.com/app/profile/oksana.olar/viz/WingsofHelpAnalyticsMVP/WingsofHelpPlatformPerformanceUserAnalytics)
+📊 Analytics:  
+[Tableau Dashboard](https://public.tableau.com/app/profile/oksana.olar/viz/WingsofHelpAnalyticsMVP/WingsofHelpPlatformPerformanceUserAnalytics)  
+
 [Power BI Dashboard](https://drive.google.com/file/d/1wPXKoTvRgrrdhaZvvDPId6u64JVOhXGu/view?usp=sharing)
 
-### Technologies
+## Technologies
 **Frontend**
  - React
  - TypeScript
@@ -48,9 +51,30 @@ The web service is implemented as an MVP (Minimum Viable Product) - a minimum vi
  - Railway
 
 **Analytics**
- - Python — for creating a dataset and processing data, statistical analysis.
- - Microsoft Excel — for preliminary analysis, data structuring.
- - Tableau Public and Power BI — for data visualization and creating interactive dashboards.
+ - Python - for creating a dataset and processing data, statistical analysis.
+ - Microsoft Excel - for preliminary analysis, data structuring.
+ - Tableau Public and Power BI - for data visualization and creating interactive dashboards.
  
+## Features
+ - User authentication (JWT)
+ - Create and manage help requests
+ - Request status tracking (New / In Progress / Done)
+ - Filtering and sorting requests
+ - Role-based functionality
+ - Multilanguage support (i18next)
+ - Responsive design
 
-   
+## Installation
+Clone the repository  
+```bash
+git clone https://github.com/wings-of-help/volunteer-site-placeholder
+```
+Install dependencies
+```bash
+npm install
+```  
+Run the project
+```bash
+npm run dev
+```
+## Our team
