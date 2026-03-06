@@ -20,8 +20,8 @@ As part of the analytical part of the project, the structure of two dashboards w
  - [Development of the Wings of Help Dataset](#development-of-the-wings-of-help-dataset)
  - [Exploratory Data Analysis and Visualization in Python](#exploratory-data-analysis-and-visualization-in-python)
  - [Development of a Tableau Dashboard](#development-of-a-tableau-dashboard)
- - [Development of a Power BI Dashboard]()
-
+ - [Development of a Power BI Dashboard](#development-of-a-power-bi-dashboard)
+ - [Tools and Skills Gained](#tools-and-skills-gained)
 
 ## Strategic approach and project planning
 [Link to the project plan](https://docs.google.com/document/d/1O2il_e48FGHaMWdllqT1MlPGp07ZM3OkoiIAKDUbUos/edit?usp=sharing)
@@ -111,15 +111,35 @@ As a result of building the dashboard, it was found that the Wings of Help platf
 The analysis of process efficiency revealed that only a portion of the created requests is processed, with a small percentage reaching completion, indicating a bottleneck at the stage of fulfilling demand by volunteers. At the same time, the average and median time to take a request into work is about 34.5 hours, which is a sign of a stable, but not instantaneous, response speed. The presence of cases with a delay of up to 72 hours confirms the uneven load on volunteers, low volunteer involvement, or limited resources.  
 Therefore, the key insights are the structural shortage of supply, the need to increase the level of volunteer involvement, and the potential for optimizing the response process to reduce user waiting times.  
 
+## Tools and Skills Gained
 
-## Tools Used
-- SQL - 
-- Python
-- Tableau Public
-- Excel
+**Data Analytics & Programming**
+ - Python (Pandas, NumPy) - used for dataset generation, data manipulation, and preparation of analytical datasets.
+ - Exploratory Data Analysis (EDA) - performed statistical exploration of the dataset, identification of patterns, distributions, and anomalies.
+ - Data Visualization (Matplotlib, Seaborn) - created visualizations to analyze user behavior, request processing dynamics, and platform performance.
+ - Statistical Analysis - applied statistical significance testing and analytical methods to validate product hypotheses and evaluate platform metrics.
 
-## Contents
-- SQL queries used for analysis
-- Dataset description
-- Tableau dashboard
-- Analytical insights
+**Data Modeling & Dataset Development**
+ - Dataset Design - designed a structured dataset that simulates the functionality of the web platform.
+ - Relational Data Modeling - created interconnected tables (users, help, help_categories, events) aligned with a PostgreSQL-style database structure.
+ - Synthetic Data Generation - generated realistic test data to simulate platform interactions between users and volunteers.
+
+**Product Analytics**
+ - KPI and Metrics Development - defined key performance indicators for measuring platform growth, engagement, and operational efficiency.
+ - User Behavior Analytics - analyzed user interactions, volunteer engagement, and request lifecycle events.
+ - Event Tracking Design - developed an event model to support product analytics and measure key user flows.
+ - A/B Testing - formulated analytical hypotheses and defined metrics and statistical methods for testing product improvements.
+
+**Business Intelligence & Data Visualization**
+ - Tableau Public - designed an analytical dashboard to monitor platform performance, user engagement, and demand-supply balance.
+ - Power BI - built an operational analytics dashboard to evaluate platform health, request processing efficiency, and response times.
+ - Dashboard Design - structured analytical dashboards to support data-driven product and operational decisions.
+
+**Product & Project Analytics**
+ - Product Thinking - defined analytical goals aligned with product strategy and platform development stages.
+ - User Flow Analysis - mapped key user journeys and platform interactions to support event analytics.
+ - Analytical Documentation - created structured analytical documentation including KPIs, statistical methods, and analytical hypotheses.
+
+**Collaboration & Analytical Planning**
+ - Cross-functional collaboration - worked with designers and developers to align analytics, UX flows, and database structure.
+ - Strategic planning - participated in defining the product concept, MVP scope, and analytical framework for the project.
