@@ -10,6 +10,32 @@ Exploratory data analysis (EDA) was also conducted using Python tools (Pandas, N
 
 As part of the analytical part of the project, the structure of two dashboards (13) was developed, which were implemented in Tableau (14) and Power BI (15).
 
+# Table of Contents
+ - [Strategic approach and project planning]
+ - [Technologies]
+ - [Features]
+ - 
+
+
+## Strategic approach and project planning
+[Link to Strategic approach and project planning](https://docs.google.com/document/d/1O2il_e48FGHaMWdllqT1MlPGp07ZM3OkoiIAKDUbUos/edit?usp=sharing)
+
+Goal: To create an efficient and user-friendly web platform that will ensure fast, transparent and organized coordination of humanitarian assistance between those in need and volunteers.
+
+SMART goals: Develop an MVP within one month with basic features (user registration, request creation, request viewing/filtering, and status updates), ensure interface adaptation for mobile and desktop devices, and implement basic security measures to protect user data.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Tools Used
 - SQL
 - Python
