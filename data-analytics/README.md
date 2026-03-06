@@ -102,8 +102,7 @@ The main need at the moment is to scale up the offers and improve the matching p
 
 This dashboard is designed for a comprehensive analysis of the effectiveness of the Wings of Help web platform. It allows you to assess the balance between demand and supply of assistance, the level of coverage of requests by volunteers, the speed of response to requests, and the overall operational effectiveness of the case processing process. The use of key KPIs and analytical visualizations allows you to identify bottlenecks in the platform's work, identify risk areas, and formulate management recommendations for improving the quality of the web service. The developed Wings of Help: Platform Health & Demand-Supply Analysis dashboard is shown in Fig. 2. 
 
-<img width="1127" height="729" alt="Wings of Help Power BI" src="https://github.com/user-attachments/assets/26310f3b-8d13-42d4-9f40-12f58b986416" />
-
+<img width="1113" height="734" alt="image" src="https://github.com/user-attachments/assets/101b6346-91d6-46a0-8654-3408c9ff59a2" />
 Fig. 2. Wings of Help: Platform Health & Demand-Supply Analysis
 
 
