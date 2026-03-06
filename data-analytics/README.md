@@ -77,7 +77,7 @@ Developed dataset for the Wings of Help web service:
 [View the events.csv](https://drive.google.com/file/d/1rewutkypinj0Z9lnEsFM4HIpmeF5lCHh/view?usp=sharing)
    
 ## Exploratory Data Analysis and Visualization in Python
-[Link to Exploratory Data Analysis and Visualization in Python](data-analytics/Exploratory%20Data%20Analysis%20and%20Visualization%20in%20Python.ipynb)
+[Link to Exploratory Data Analysis and Visualization in Python](data-analytics/exploratory-data-analysis-python.ipynb)
 
 The Wings of Help web service enables interaction between people or organizations in need of help and volunteers through a centralized platform for managing requests for help. The project dataset was created in Python and follows the Postgres SQL database structure, key performance indicators (KPIs), and metrics defined in the project documentation.
 
