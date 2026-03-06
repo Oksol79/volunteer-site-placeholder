@@ -2,9 +2,9 @@
 
 When creating the Wings of Help project, I worked closely with the team. At the initial stage, I described the project idea, defined the strategic approach and planning stages, and prepared the Software Requirements Specification.
 
-The main KPIs and metrics were developed, and together with the designer Sofia Kolomoyets, key user flows and events for analytics were agreed upon. Additionally, analytical hypotheses were formulated and statistical methods for their verification were described.
+The main KPIs and metrics were developed, and together with the designer, key user flows and events for analytics were agreed upon. Additionally, analytical hypotheses were formulated and statistical methods for their verification were described.
 
-The next stage was the development of a dataset for the project in Python (7), taking into account the defined KPIs, metrics, and database structure, which was prepared by the front-end developer Anton Blyznyuk. The generated dataset consists of four tables: help_categories.csv (8), users.csv (9), help.csv (10), and events.csv (11).
+The next stage was the development of a dataset for the project in Python, taking into account the defined KPIs, metrics, and database structure, which was prepared by the front-end developer. The generated dataset consists of four tables: help_categories.csv (8), users.csv (9), help.csv (10), and events.csv (11).
 
 Exploratory data analysis (EDA) was also conducted using Python tools (Pandas, NumPy, Matplotlib, Seaborn), statistical significance testing was performed, and visualizations of the results were created (12).
 
@@ -60,6 +60,12 @@ This document describes statistical methods used to analyze product analytics fo
 The Wings of Help web service provides interaction between people or organizations in need of help and volunteers, allowing users to create, publish, view, and manage requests for help. The platform allows requests to be created, processed by volunteers, and content to be moderated by administrators.  
 The dataset was created to simulate the platform, test the functionality of the web service, analyze the interaction between users and volunteers, and for further research related to optimizing the processing of help requests and scaling the system. Currently, the web platform is developed as an MVP with basic functionality for quick launch and scalability in the future.
 
+Developed dataset for the Wings of Help web service: 
+ - Help Categories Table [View the help_categories.csv](https://drive.google.com/file/d/1Qm919Z_XPJ2m1Gp9lkIfkjmEfUH5_Bs4/view?usp=sharing) 
+ - Users Table[users.csv](https://drive.google.com/file/d/12aZfMzEf5u--WN9sBAJs7qq0ZVtFtjSj/view?usp=sharing)
+ - Help Table[help.csv](https://drive.google.com/file/d/1NWqw6SPQ-ZxeKBiSKRloT8C-2ZDEWctB/view?usp=sharing)
+ - Events Table[events.csv](https://drive.google.com/file/d/1rewutkypinj0Z9lnEsFM4HIpmeF5lCHh/view?usp=sharing)
+   
 
 
 
