@@ -64,7 +64,7 @@ The dataset was created to simulate the platform, test the functionality of the 
 
 Developed dataset for the Wings of Help web service: 
  - Help Categories Table  
-[View the help_categories.csv](https://drive.google.com/file/d/1Qm919Z_XPJ2m1Gp9lkIfkjmEfUH5_Bs4/view?usp=sharing)
+[View the help_categories.csv](https://drive.google.com/file/d/12aZfMzEf5u--WN9sBAJs7qq0ZVtFtjSj/view?usp=sharing)
 
  - Users Table  
 [View the users.csv](https://drive.google.com/file/d/12aZfMzEf5u--WN9sBAJs7qq0ZVtFtjSj/view?usp=sharing)
