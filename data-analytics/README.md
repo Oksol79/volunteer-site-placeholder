@@ -19,7 +19,7 @@ As part of the analytical part of the project, the structure of two dashboards w
  - [Statistical Methods for Product Analytics](#statistical-methods-for-product-analytics)
  - [Development of the Wings of Help Dataset](#development-of-the-wings-of-help-dataset)
  - [Exploratory Data Analysis and Visualization in Python](#exploratory-data-analysis-and-visualization-in-python)
- - []
+ - [Developing a dashboard structure in Tableau]()
 
 
 ## Strategic approach and project planning
@@ -80,7 +80,11 @@ Developed dataset for the Wings of Help web service:
 
 The Wings of Help web service enables interaction between people or organizations in need of help and volunteers through a centralized platform for managing requests for help. The project dataset was created in Python and follows the Postgres SQL database structure, key performance indicators (KPIs), and metrics defined in the project documentation.
 
+## Developing a dashboard structure in Tableau
+[View the document](https://docs.google.com/document/d/1mM0jjqHDccpMarAl8XXr5woU2CP8WEb6TKfbxMJIYYw/edit?usp=sharing)
 
+This dashboard provides a comprehensive analytical overview of the Wings of Help platform, focusing on user growth, engagement, operational efficiency, and supply-demand balance between requests and offers.
+It is designed to support product and operational decision-making by tracking platform performance across acquisition, activation, engagement, and fulfillment stages.
 
 
 
