@@ -11,8 +11,8 @@ Exploratory data analysis (EDA) was also conducted using Python tools (Pandas, N
 As part of the analytical part of the project, the structure of two dashboards (13) was developed, which were implemented in Tableau (14) and Power BI (15).
 
 # Table of Contents
- - [Strategic approach and project planning]
- - [Technologies]
+ - [Strategic approach and project planning](#strategic-approach-and-project-planning)
+ - [Software Requirements Specification (SRS)](#software-requirements-specification-srs)
  - [Features]
  - 
 
@@ -24,8 +24,8 @@ Goal: To create an efficient and user-friendly web platform that will ensure fas
 
 SMART goals: Develop an MVP within one month with basic features (user registration, request creation, request viewing/filtering, and status updates), ensure interface adaptation for mobile and desktop devices, and implement basic security measures to protect user data.
 
-
-
+## Software Requirements Specification (SRS)
+[Link to SRS]()
 
 
 
